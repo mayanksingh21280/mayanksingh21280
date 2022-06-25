@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mayanksingh21280
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Android Development
+- 👋 Hi, I’m @mayanksingh21280.
+- 👀 I’m interested in MERN (FULL STACK WEB DEVELOPMENT).
+- 🌱 I’m currently learning PRO GIT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me INSTAGRAM ID mayanksingh21280
 
